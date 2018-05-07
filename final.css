@@ -20,6 +20,9 @@ h2{
 }
 caption{
   position: fixed;
+  font-family:Arial black;
+  font-size:20px;
+  font-style:italic;
 
 }
 
@@ -35,6 +38,7 @@ caption{
   border: 0px solid #000;
   margin-left: 0em;
   background-position: center;
+
 }
 
 .offset-right {
@@ -56,6 +60,12 @@ caption{
 
 .offset {
     background: rgba(255,0,0,.1);
+    font-family:Arial black;
+    font-size:20px;
+    font-style:italic;
+    
+
+
 
 }
 .offset1{
